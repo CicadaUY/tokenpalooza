@@ -1,0 +1,3 @@
+Datasets: ArchiveII, bpRNA+bpRNAnew, PDB-bpRNA
+Embeddings: RNABERT, RNA-FM, RNA-MSM, ERNIE-RNA, RiNALMo
+https://zenodo.org/records/13821093
