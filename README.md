@@ -12,55 +12,23 @@ Organizan el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Autom�
 - 📅 [Cronograma](#cronograma)
 - 🎤 [Charlas](charlas/README.md)
 - 🛠️ [Tareas](tareas/README.md)
-- 👥 [Docentes invitados](charlas/README.md#docentes-invitados)
+- 👥 [Expositores](charlas/README.md#expositores)
 
 ## Cronograma
 
-> Cronograma tentativo: los horarios y títulos se irán completando a medida que se confirmen.
-> Cada actividad enlaza a su página con resumen, diapositivas y materiales.
+Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva a su página con los materiales. «Grupos» es trabajo en las [tareas](tareas/README.md).
 
-### Domingo 1 de noviembre
+| Hora | Dom 1 | Lun 2 | Mar 3 | Mié 4 | Jue 5 | Vie 6 |
+|------|-------|-------|-------|-------|-------|-------|
+| 8:30 | | [1 · Velasco](charlas/01-velasco.md) | [5 · Milone](charlas/05-milone.md) | [9 · Moncecchi](charlas/09-moncecchi.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
+| 10:15 | | [2 · Milone (intro)](charlas/02-milone-intro.md) | [6 · Alonso Alemany](charlas/06-alonso-alemany.md) | [10 · Rosá](charlas/10-rosa.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
+| 11:30 | | Armado de grupos | [7 · Cabana](charlas/07-cabana.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
+| 14:30 | | [3 · Alonso Alemany (intro)](charlas/03-alonso-alemany-intro.md) | [8 · Mihalcea](charlas/08-mihalcea.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | Presentaciones |
+| 16:00 | | [4 · Cabana (intro)](charlas/04-cabana-intro.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | Presentaciones |
+| 17:30 | | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | Presentaciones |
+| 18:30 | Bienvenida | | | | | Cierre (19:00) |
 
-| Hora | Actividad | Detalles |
-|------|-----------|----------|
-| _a confirmar_ | Llegada y acreditación | |
-| _a confirmar_ | Apertura de la escuela | |
-| _a confirmar_ | Presentación de las tareas y armado de equipos | [Tareas](tareas/README.md) |
-
-### Lunes 2 de noviembre
-
-| Hora | Actividad | Detalles |
-|------|-----------|----------|
-| _a confirmar_ | Charla | _a confirmar_ |
-| _a confirmar_ | Trabajo en equipos | [Tareas](tareas/README.md) |
-
-### Martes 3 de noviembre
-
-| Hora | Actividad | Detalles |
-|------|-----------|----------|
-| _a confirmar_ | Charla | _a confirmar_ |
-| _a confirmar_ | Trabajo en equipos | [Tareas](tareas/README.md) |
-
-### Miércoles 4 de noviembre
-
-| Hora | Actividad | Detalles |
-|------|-----------|----------|
-| _a confirmar_ | Charla | _a confirmar_ |
-| _a confirmar_ | Trabajo en equipos | [Tareas](tareas/README.md) |
-
-### Jueves 5 de noviembre
-
-| Hora | Actividad | Detalles |
-|------|-----------|----------|
-| _a confirmar_ | Charla | _a confirmar_ |
-| _a confirmar_ | Trabajo en equipos | [Tareas](tareas/README.md) |
-
-### Viernes 6 de noviembre
-
-| Hora | Actividad | Detalles |
-|------|-----------|----------|
-| _a confirmar_ | Presentaciones de los proyectos y discusión | [Tareas](tareas/README.md) |
-| _a confirmar_ | Cierre | |
+Coffee break a las 10:00 y a las 17:00, pausa a las 11:15 y almuerzo a las 12:30.
 
 ## Contenidos
 

@@ -56,7 +56,8 @@ También en [RNA data.txt](RNA%20data.txt) y [Protein data.txt](Protein%20data.t
 
 ## Charlas relacionadas
 
-- [Charla de Diego Milone](../../charlas/milone.md)
+- [Charla 2 — Diego Milone (introducción)](../../charlas/02-milone-intro.md)
+- [Charla 5 — Diego Milone](../../charlas/05-milone.md)
 
 ## Recursos de cómputo
 
