@@ -13,7 +13,7 @@ Cada charla tiene su página con resumen, diapositivas y lecturas recomendadas.
 | 5 | Mar 8:30 | [Diego Milone](05-milone.md) |
 | 6 | Mar 10:15 | [Laura Alonso Alemany](06-alonso-alemany.md) |
 | 7 | Mar 11:30 | [Álvaro Cabana](07-cabana.md) |
-| 8 | Mar 14:30 | [Rada Mihalcea](08-mihalcea.md) |
+| 8 | Mar 14:30 | [Rada Mihalcea — Collective Wisdom and Collective Failure in Multi-Agent Systems](08-mihalcea.md) |
 | 9 | Mié 8:30 | [Guillermo Moncecchi](09-moncecchi.md) |
 | 10 | Mié 10:15 | [Aiala Rosá](10-rosa.md) |
 
