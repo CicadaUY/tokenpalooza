@@ -15,4 +15,4 @@ _A completar._
 
 ## Lecturas recomendadas
 
-- Ver los artículos de la tarea [Biotokens](../tareas/biotokens/README.md).
+- Ver los materiales de las tareas [Biotokens — RNA](../tareas/biotokens-rna/README.md) y [Biotokens — proteínas](../tareas/biotokens-proteinas/README.md).
