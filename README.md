@@ -13,6 +13,7 @@ Organizan el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Autom�
 - 🎤 [Charlas](charlas/README.md)
 - 🛠️ [Tareas](tareas/README.md)
 - 👥 [Expositores](charlas/README.md#expositores)
+- 📚 [Material de preparación](#material-de-preparación)
 
 ## Cronograma
 
@@ -29,6 +30,11 @@ Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva 
 | 18:30 | Bienvenida | | | | | Cierre (19:00) |
 
 Coffee break a las 10:00 y a las 17:00, pausa a las 11:15 y almuerzo a las 12:30.
+
+## Material de preparación
+
+- **[Propedéutico LLM](https://cicadauy.github.io/propedeutico-llms/)** — recorrido de dos semanas (menos de cinco horas) para llegar a la escuela con una intuición de tokens, embeddings, atención y transformers. Incluye una lección 0 opcional sobre redes neuronales.
+- _Otros materiales a agregar._
 
 ## Organización del repositorio
 
