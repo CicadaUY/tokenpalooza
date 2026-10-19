@@ -30,16 +30,6 @@ Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva 
 
 Coffee break a las 10:00 y a las 17:00, pausa a las 11:15 y almuerzo a las 12:30.
 
-## Contenidos
-
-- Fundamentos de los modelos de lenguaje y las representaciones distribuidas. De los embeddings clásicos a los modelos contextualizados.
-- Arquitectura Transformer: atención, encoders y decoders.
-- Modelos abiertos y cerrados.
-- Adaptación y evaluación de modelos de lenguaje.
-- Uso de LLMs como herramientas de investigación.
-- Aplicaciones en biología (secuencias genómicas, datos ecológicos, etc.), psicología (análisis del discurso), matemática, computación y otras áreas.
-- Interpretabilidad, sesgos, limitaciones y aspectos éticos.
-
 ## Organización del repositorio
 
 ```
@@ -49,9 +39,5 @@ tareas/              ← índice de tareas y una carpeta por tarea (propuesta + 
 ```
 
 Para agregar una charla o una tarea, copiar la plantilla correspondiente ([charla](charlas/_plantilla.md), [tarea](tareas/_plantilla.md)), completarla y enlazarla desde el cronograma y el índice.
-
-## Organización
-
-Comité organizador: Álvaro Cabana, Bernardo Marenco, Emilia Fló, Guillermo Moncecchi y Héctor Romero.
 
 Consultas: <cicada@ei.udelar.edu.uy>
