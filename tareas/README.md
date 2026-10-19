@@ -8,8 +8,8 @@ Durante la escuela, cada equipo interdisciplinario trabaja en una de las seis ta
 |---|-------|------|--------------|--------|
 | 1 | [Biotokens — RNA](biotokens-rna/README.md) | _a completar_ | _a completar_ | _a completar_ |
 | 2 | [Biotokens — proteínas](biotokens-proteinas/README.md) | _a completar_ | _a completar_ | _a completar_ |
-| 3 | [Tarea 3](tarea-3/README.md) | _a completar_ | _a completar_ | _a completar_ |
-| 4 | [Tarea 4](tarea-4/README.md) | _a completar_ | _a completar_ | _a completar_ |
+| 3 | [¿Los modelos de lenguaje predicen cómo leemos?](surprisal-lectura/README.md) | _a completar_ | _a completar_ | _a completar_ |
+| 4 | [¿Qué dimensiones del significado están representadas linealmente en los modelos de lenguaje?](direcciones-lineales/README.md) | _a completar_ | _a completar_ | _a completar_ |
 | 5 | [Tarea 5](tarea-5/README.md) | _a completar_ | _a completar_ | _a completar_ |
 | 6 | [Tarea 6](tarea-6/README.md) | _a completar_ | _a completar_ | _a completar_ |
 
