@@ -1,6 +1,6 @@
 # Charla 1 — Mauricio Velasco
 
-- **Expositor/a:** Mauricio Velasco
+- **Expositor:** Mauricio Velasco
 - **Cuándo:** lunes 2 de noviembre, 8:30
 
 [← Charlas](README.md) · [← Cronograma](../README.md#cronograma)
