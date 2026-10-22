@@ -21,7 +21,7 @@ Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva 
 
 | Hora | Dom 1 | Lun 2 | Mar 3 | Mié 4 | Jue 5 | Vie 6 |
 |------|-------|-------|-------|-------|-------|-------|
-| 8:30 | | [1 · Velasco](charlas/01-velasco.md) | [5 · Milone](charlas/05-milone.md) | [9 · Moncecchi](charlas/09-moncecchi.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
+| 8:30 | | [1 · Mauricio Velasco](charlas/01-velasco.md) | [5 · Milone](charlas/05-milone.md) | [9 · Moncecchi](charlas/09-moncecchi.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
 | 10:15 | | [2 · Milone (intro)](charlas/02-milone-intro.md) | [6 · Alonso Alemany](charlas/06-alonso-alemany.md) | [10 · Rosá](charlas/10-rosa.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
 | 11:30 | | Armado de grupos | [7 · Cabana](charlas/07-cabana.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
 | 14:30 | | [3 · Alonso Alemany (intro)](charlas/03-alonso-alemany-intro.md) | [8 · Mihalcea](charlas/08-mihalcea.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | Presentaciones |
