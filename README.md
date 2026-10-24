@@ -29,7 +29,7 @@ Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva 
 | 17:30 | | Trabajo en grupos | Trabajo en grupos| Trabajo en grupos | Trabajo en grupos | Presentaciones |
 | 18:30 | Bienvenida | | | | | Cierre (19:00) |
 
-Coffee break a las 10:00 y a las 17:00, pausa a las 11:15 y almuerzo a las 12:30. Al final de cada jornada cada grupo presentará el avance en su tarea. 
+Mini break a las 11:15, almuerzo a las 12:30, y coffe break a las 17:00. Al final de cada jornada cada grupo presentará el avance en su tarea. 
 
 ## Material de preparación para la Escuela 
 
