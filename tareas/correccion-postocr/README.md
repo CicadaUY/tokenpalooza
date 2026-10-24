@@ -1,4 +1,4 @@
-# Tarea N: Corrección de salidas de OCR para líneas de documentos del pasado reciente
+# Tarea 6: Corrección de salidas de OCR para líneas de documentos del pasado reciente
 
 [← Volver a tareas](../README.md) · [← Cronograma](../../README.md#cronograma)
 
