@@ -12,16 +12,3 @@ Durante la escuela, cada equipo interdisciplinario trabaja en una de las seis ta
 | 4 | [¿Qué dimensiones del significado están representadas linealmente en los modelos de lenguaje?](direcciones-lineales/README.md) | |  |
 | 5 | [Detección de alucinaciones en salidas de LLMs (Mu-SHROOM)](alucinaciones/README.md) |   |  |
 | 6 | [Corrección de salidas de OCR para líneas de documentos del pasado reciente](correccion-postocr/README.md)  |  |  |
-
-## Entregables
-
-Al cierre de la escuela cada equipo presenta:
-
-- Una presentación breve con el problema, el enfoque, los resultados y las limitaciones encontradas.
-- El código y los notebooks utilizados, agregados a la carpeta de la tarea.
-
-## Agregar o completar una tarea
-
-1. Copiar [`_plantilla.md`](_plantilla.md) como `README.md` dentro de la carpeta de la tarea (al renombrar la carpeta, usar un nombre corto en minúsculas, por ejemplo `biotokens-rna`).
-2. Completar la propuesta y agregar los materiales a la carpeta.
-3. Actualizar la tabla de esta página.
