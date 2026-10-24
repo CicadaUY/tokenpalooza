@@ -11,7 +11,7 @@ Durante la escuela, cada equipo interdisciplinario trabaja en una de las seis ta
 | 3 | [¿Los modelos de lenguaje predicen cómo leemos?](surprisal-lectura/README.md) | _a completar_ | _a completar_ | _a completar_ |
 | 4 | [¿Qué dimensiones del significado están representadas linealmente en los modelos de lenguaje?](direcciones-lineales/README.md) | _a completar_ | _a completar_ | _a completar_ |
 | 5 | [Detección de alucinaciones en salidas de LLMs (Mu-SHROOM)](alucinaciones/README.md) | _a completar_ | _a completar_ | _a completar_ |
-| 6 | [Generación de preguntas críticas](preguntas-criticas/README.md) _(propuesta a evaluar)_ | _a completar_ | _a completar_ | _a completar_ |
+| 6 | [Corrección de salidas de OCR para líneas de documentos del pasado reciente](correccion-postocr/README.md) _(propuesta a evaluar)_ | _a completar_ | _a completar_ | _a completar_ |
 
 ## Entregables
 
