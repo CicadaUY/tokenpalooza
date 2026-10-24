@@ -36,15 +36,4 @@ Coffee break a las 10:00 y a las 17:00, pausa a las 11:15 y almuerzo a las 12:30
 - **[Propedéutico LLM](https://cicadauy.github.io/propedeutico-llms/)** — recorrido de dos semanas (menos de cinco horas) para llegar a la escuela con una intuición de tokens, embeddings, atención y transformers. Incluye una lección 0 opcional sobre redes neuronales.
 - _Otros materiales a agregar._
 
-## Organización del repositorio
-
-```
-README.md            ← esta página (información general y cronograma)
-charlas/             ← una página por charla, con resumen y materiales
-tareas/              ← índice de tareas y una carpeta por tarea (propuesta + materiales)
-respaldo/biotokens/  ← copia del directorio biotokens tal como se subió originalmente
-```
-
-Para agregar una charla o una tarea, copiar la plantilla correspondiente ([charla](charlas/_plantilla.md), [tarea](tareas/_plantilla.md)), completarla y enlazarla desde el cronograma y el índice.
-
 Consultas: <cicada@ei.udelar.edu.uy>
