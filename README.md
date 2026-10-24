@@ -13,7 +13,7 @@ Organizan el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Autom�
 - 🎤 [Charlas](charlas/README.md)
 - 🛠️ [Tareas](tareas/README.md)
 - 👥 [Expositores](charlas/README.md#expositores)
-- 📚 [Material de preparación](#material-de-preparación)
+- 📚 [Material de preparación](#Material de preparación para la Escuela)
 
 ## Cronograma
 
