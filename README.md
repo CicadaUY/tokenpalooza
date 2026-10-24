@@ -21,7 +21,7 @@ Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva 
 
 | Hora | Dom 1 | Lun 2 | Mar 3 | Mié 4 | Jue 5 | Vie 6 |
 |------|-------|-------|-------|-------|-------|-------|
-| 8:30 | | [1 · Mauricio Velasco](charlas/01-velasco.md) | [5 · Diego Milone](charlas/05-milone.md) | [9 · Guillermo Moncecchi: Introducción a los Modelos de Razonamiento](charlas/09-moncecchi.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
+| 8:30 | | [1 · Mauricio Velasco: Modelos de difusión en espacios discretos](charlas/01-velasco.md) | [5 · Diego Milone](charlas/05-milone.md) | [9 · Guillermo Moncecchi: Introducción a los Modelos de Razonamiento](charlas/09-moncecchi.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
 | 10:15 | | [2 · Diego Milone (intro)](charlas/02-milone-intro.md) | [6 · Laura Alonso Alemany](charlas/06-alonso-alemany.md) | [10 · Aiala Rosá: Aplicaciones de modelos de lenguaje a diferentes problemas de PLN](charlas/10-rosa.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
 | 11:30 | | Armado de grupos | [7 · Álvaro Cabana](charlas/07-cabana.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
 | 14:30 | | [3 · Laura Alonso Alemany (intro)](charlas/03-alonso-alemany-intro.md) | [8 · Rada Mihalcea: Collective Wisdom and Collective Failure in Multi-Agent Systems](charlas/08-mihalcea.md)  | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | Presentaciones |
