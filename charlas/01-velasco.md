@@ -1,4 +1,4 @@
-# Mauricio Velasco: Modelos de difusión en espacios discretos.
+# Modelos de difusión en espacios discretos.
 
 - **Expositor:** Mauricio Velasco
 - **Cuándo:** lunes 2 de noviembre, 8:30
