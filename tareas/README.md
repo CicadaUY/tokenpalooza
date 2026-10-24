@@ -2,7 +2,7 @@
 
 [← Cronograma](../README.md#cronograma)
 
-Durante la escuela, cada equipo interdisciplinario trabaja en una de las seis tareas propuestas y presenta sus resultados el viernes 6 de noviembre. Cada tarea tiene su carpeta con la propuesta (`README.md`) y los materiales: artículos, datos, notebooks.
+Durante la escuela, cada equipo interdisciplinario trabajará en una de las seis tareas siguientes y presentará sus resultados el viernes 6 de noviembre. Cada tarea tiene su carpeta con la propuesta (`README.md`) y los materiales: artículos, datos, notebooks.
 
 | # | Tarea | Responsables | Equipo |
 |---|-------|--------------|--------|
