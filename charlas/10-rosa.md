@@ -1,4 +1,4 @@
-# Charla 10 — Aiala Rosá
+# Aplicaciones de modelos de lenguaje a diferentes problemas de PLN
 
 - **Expositor/a:** Aiala Rosá
 - **Cuándo:** miércoles 4 de noviembre, 10:15
