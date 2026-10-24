@@ -31,9 +31,3 @@ Cada charla tiene su página con resumen, diapositivas y lecturas recomendadas.
 - **Álvaro Cabana** (Udelar) — _bio a completar._ Charlas: [4](04-cabana-intro.md), [7](07-cabana.md).
 - **Guillermo Moncecchi** (Udelar) — _bio a completar._ Charla: [9](09-moncecchi.md).
 - **Aiala Rosá** (Udelar) — _bio a completar._ Charla: [10](10-rosa.md).
-
-## Agregar una charla
-
-1. Copiar [`_plantilla.md`](_plantilla.md) como `NN-apellido.md`, donde `NN` es el número de la charla en el cronograma.
-2. Completar los datos y agregar los materiales (diapositivas, notebooks) en una carpeta con el mismo nombre, o enlazarlos.
-3. Agregar la charla a la tabla de esta página y al [cronograma](../README.md#cronograma).
