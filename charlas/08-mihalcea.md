@@ -1,4 +1,4 @@
-# Charla 8 — Collective Wisdom and Collective Failure in Multi-Agent Systems
+# Collective Wisdom and Collective Failure in Multi-Agent Systems
 
 - **Expositor/a:** Rada Mihalcea
 - **Cuándo:** martes 3 de noviembre, 14:30
