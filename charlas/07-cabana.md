@@ -1,7 +1,7 @@
-# Charla 7 — Álvaro Cabana
+# La hipótesis de la representación lineal
 
 - **Expositor/a:** Álvaro Cabana
-- **Cuándo:** martes 3 de noviembre, 11:30
+- **Cuándo:** martes 3 de noviembre, 11:20
 
 [← Charlas](README.md) · [← Cronograma](../README.md#cronograma)
 

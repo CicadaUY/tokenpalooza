@@ -17,19 +17,17 @@ Organizan el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Autom�
 
 ## Cronograma
 
-Los números corresponden a las [charlas](charlas/README.md); cada enlace lleva a su página con los materiales. «Grupos» indica trabajo en las diferentes [tareas](tareas/README.md).
+| Hora | Lun 2 | Mar 3 | Mié 4 | Jue 5 | Vie 6 |
+|------|-------|-------|-------|-------|-------|
+| 8:30 | [Laura Alonso Alemany: El modelo no es el lenguaje, ni es natural](charlas/03-alonso-alemany-intro.md)  | [Diego Milone](charlas/05-milone.md) | [Guillermo Moncecchi: Modelos de Razonamiento](charlas/09-moncecchi.md) | Trabajo en grupos  | Trabajo en grupos  |
+| 10:00 | [Diego Milone (intro)](charlas/02-milone-intro.md) | [Laura Alonso Alemany: Evaluamos: mal](charlas/06-alonso-alemany.md) | [Aiala Rosá: Aplicaciones de modelos de lenguaje a diferentes problemas de PLN](charlas/10-rosa.md) | Trabajo en grupos  | Trabajo en grupos  |
+| 11:20 | [Presentación de las tareas y armado de grupos](tareas/README.md) | [Álvaro Cabana: La hipótesis de la representación lineal](charlas/07-cabana.md) |Trabajo en grupos  |Trabajo en grupos  | Trabajo en grupos  |
+| 14:30 |  [Álvaro Cabana: Modelos de lenguaje como herramientas y modelos neurocognitivos… y viceversa](charlas/04-cabana-intro.md) | [Rada Mihalcea: Collective Wisdom and Collective Failure in Multi-Agent Systems](charlas/08-mihalcea.md)  | Trabajo en grupos | Trabajo en grupos | Presentaciones |
+| 15:45 | [Mauricio Velasco: Modelos de difusión en espacios discretos](charlas/01-velasco.md) | Trabajo en grupos| Trabajo en grupos | Trabajo en grupos | Presentaciones |
+| 17:30 | Trabajo en grupos | Trabajo en grupos| Trabajo en grupos | Trabajo en grupos | Presentaciones |
+| 18:30 | | | | | Cierre (19:00) |
 
-| Hora | Dom 1 | Lun 2 | Mar 3 | Mié 4 | Jue 5 | Vie 6 |
-|------|-------|-------|-------|-------|-------|-------|
-| 8:30 | | [Mauricio Velasco: Modelos de difusión en espacios discretos](charlas/01-velasco.md) | [Diego Milone](charlas/05-milone.md) | [Guillermo Moncecchi: Modelos de Razonamiento](charlas/09-moncecchi.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
-| 10:00 | | [Diego Milone (intro)](charlas/02-milone-intro.md) | [Laura Alonso Alemany: Evaluamos: mal](charlas/06-alonso-alemany.md) | [Aiala Rosá: Aplicaciones de modelos de lenguaje a diferentes problemas de PLN](charlas/10-rosa.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
-| 11:20 | | [Presentación de las tareas y armado de grupos](tareas/README.md) | [Álvaro Cabana](charlas/07-cabana.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) | [Grupos](tareas/README.md) |
-| 14:30 | | [Laura Alonso Alemany: El modelo no es el lenguaje, ni es natural](charlas/03-alonso-alemany-intro.md) | [Rada Mihalcea: Collective Wisdom and Collective Failure in Multi-Agent Systems](charlas/08-mihalcea.md)  | Trabajo en grupos | Trabajo en grupos | Presentaciones |
-| 15:45 | | [Álvaro Cabana (intro)](charlas/04-cabana-intro.md) | Trabajo en grupos| Trabajo en grupos | Trabajo en grupos | Presentaciones |
-| 17:30 | | Trabajo en grupos | Trabajo en grupos| Trabajo en grupos | Trabajo en grupos | Presentaciones |
-| 18:30 | Bienvenida | | | | | Cierre (19:00) |
-
-Mini break a las 11:15, almuerzo a las 12:30, y coffe break a las 17:00. Al final de cada jornada cada grupo presentará el avance en su tarea. 
+La bienvenida es el domingo 1, a las 18:30. Cada día habrá un mini break a las 11:15, almuerzo a las 12:30, y coffe break a las 17:00. Al final de cada jornada cada grupo presentará el avance en su tarea. 
 
 ## Material de preparación para la Escuela 
 

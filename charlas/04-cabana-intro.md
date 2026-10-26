@@ -1,7 +1,6 @@
-# Charla 4 — Álvaro Cabana (introducción)
-
+# Modelos de lenguaje como herramientas y modelos neurocognitivos… y viceversa
 - **Expositor/a:** Álvaro Cabana
-- **Cuándo:** lunes 2 de noviembre, 16:00
+- **Cuándo:** lunes 2 de noviembre, 15:45
 
 [← Charlas](README.md) · [← Cronograma](../README.md#cronograma)
 
