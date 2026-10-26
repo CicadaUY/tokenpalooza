@@ -7,12 +7,9 @@
 
 ## Resumen
 
-_A completar._
 
 ## Materiales
 
-- Diapositivas: _a completar_
 
 ## Lecturas recomendadas
 
-- _A completar._

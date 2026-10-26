@@ -1,4 +1,4 @@
-# Charla 6 — Laura Alonso Alemany
+# Evaluamos: mal
 
 - **Expositor/a:** Laura Alonso Alemany
 - **Cuándo:** martes 3 de noviembre, 10:15
@@ -7,12 +7,9 @@
 
 ## Resumen
 
-_A completar._
 
 ## Materiales
 
-- Diapositivas: _a completar_
 
 ## Lecturas recomendadas
 
-- _A completar._
