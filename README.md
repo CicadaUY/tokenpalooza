@@ -29,10 +29,11 @@ Organizan el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Autom�
 
 La bienvenida es el domingo 1, a las 18:30. Cada día habrá un mini break a las 11:15, almuerzo a las 12:30, y coffe break a las 17:00. Al final de cada jornada cada grupo presentará el avance en su tarea. 
 
-## Material de preparación para la Escuela 
+## Material adicional
 
 - **[Propedéutico LLM](https://cicadauy.github.io/propedeutico-llms/)** — recorrido de dos semanas (menos de cinco horas) para llegar a la escuela con una intuición de tokens, embeddings, atención y transformers. Incluye una lección 0 opcional sobre redes neuronales.
-- **[Fine-tuning de BERT](recursos/finetuning_bert.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/finetuning_bert.ipynb)) — notebook de análisis de sentimiento en español con BETO: dataset, tokenización y ajuste fino del modelo.
-- **[Prompting y fine-tuning de LLMs](recursos/prompting_finetuning_llm.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/prompting_finetuning_llm.ipynb)) — notebook de clasificación de emociones en tweets con grandes modelos de lenguaje, usando prompting y fine-tuning.
+
+- **[Fine-tuning de BERT](recursos/finetuning_bert.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/finetuning_bert.ipynb)) notebook de análisis de sentimiento en español con BETO: dataset, tokenización y ajuste fino del modelo.
+- **[Prompting y fine-tuning de LLMs](recursos/prompting_finetuning_llm.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/prompting_finetuning_llm.ipynb)) notebook de clasificación de emociones en tweets con grandes modelos de lenguaje, usando prompting y fine-tuning.
 
 Consultas: <cicada@ei.udelar.edu.uy>
