@@ -36,4 +36,9 @@ La bienvenida es el domingo 1, a las 18:30. Cada día habrá un mini break a las
 - **[Fine-tuning de BERT](recursos/finetuning_bert.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/finetuning_bert.ipynb)) notebook de análisis de sentimiento en español con BETO: dataset, tokenización y ajuste fino del modelo.
 - **[Prompting y fine-tuning de LLMs](recursos/prompting_finetuning_llm.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/prompting_finetuning_llm.ipynb)) notebook de clasificación de emociones en tweets con grandes modelos de lenguaje, usando prompting y fine-tuning.
 
+- **Tutoriales de Neuromatch Academy: Deep Learning** — los dos primeros son una introducción al procesamiento de lenguaje natural, BERT y GPT; el tercero hace zoom en el mecanismo de atención y los transformers.
+  - [Introduction to processing time series](https://deeplearning.neuromatch.io/tutorials/W2D5_TimeSeriesAndNaturalLanguageProcessing/student/W2D5_Tutorial1.html)
+  - [Natural Language Processing and LLMs](https://deeplearning.neuromatch.io/tutorials/W2D5_TimeSeriesAndNaturalLanguageProcessing/student/W2D5_Tutorial2.html)
+  - [Learn how to work with Transformers](https://deeplearning.neuromatch.io/tutorials/W3D1_AttentionAndTransformers/student/W3D1_Tutorial1.html)
+
 Consultas: <cicada@ei.udelar.edu.uy>
