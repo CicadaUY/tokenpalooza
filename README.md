@@ -20,7 +20,7 @@ Organizan el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Autom�
 | Hora | Lun 2 | Mar 3 | Mié 4 | Jue 5 | Vie 6 |
 |------|-------|-------|-------|-------|-------|
 | 8:30 | [Laura Alonso Alemany: El modelo no es el lenguaje, ni es natural](charlas/03-alonso-alemany-intro.md)  | [Diego Milone](charlas/05-milone.md) | [Guillermo Moncecchi: Modelos de Razonamiento](charlas/09-moncecchi.md) | Trabajo en grupos  | Trabajo en grupos  |
-| 10:00 | [Diego Milone (intro)](charlas/02-milone-intro.md) | [Laura Alonso Alemany: Evaluamos: mal](charlas/06-alonso-alemany.md) | [Aiala Rosá: Aplicaciones de modelos de lenguaje a diferentes problemas de PLN](charlas/10-rosa.md) | Trabajo en grupos  | Trabajo en grupos  |
+| 10:00 | [Diego Milone: Aprendizaje automático en secuencias biológicas](charlas/02-milone-intro.md) | [Laura Alonso Alemany: Evaluamos: mal](charlas/06-alonso-alemany.md) | [Aiala Rosá: Aplicaciones de modelos de lenguaje a diferentes problemas de PLN](charlas/10-rosa.md) | Trabajo en grupos  | Trabajo en grupos  |
 | 11:20 | [Presentación de las tareas y armado de grupos](tareas/README.md) | [Álvaro Cabana: La hipótesis de la representación lineal](charlas/07-cabana.md) |Trabajo en grupos  |Trabajo en grupos  | Trabajo en grupos  |
 | 14:30 |  [Álvaro Cabana: Modelos de lenguaje como herramientas y modelos neurocognitivos… y viceversa](charlas/04-cabana-intro.md) | [Rada Mihalcea: Collective Wisdom and Collective Failure in Multi-Agent Systems](charlas/08-mihalcea.md)  | Trabajo en grupos | Trabajo en grupos | Presentaciones |
 | 15:45 | [Mauricio Velasco: Modelos de difusión en espacios discretos](charlas/01-velasco.md) | Trabajo en grupos| Trabajo en grupos | Trabajo en grupos | Presentaciones |
