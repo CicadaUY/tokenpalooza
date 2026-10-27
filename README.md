@@ -36,4 +36,6 @@ La bienvenida es el domingo 1, a las 18:30. Cada día habrá un mini break a las
 - **[Fine-tuning de BERT](recursos/finetuning_bert.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/finetuning_bert.ipynb)) notebook de análisis de sentimiento en español con BETO: dataset, tokenización y ajuste fino del modelo.
 - **[Prompting y fine-tuning de LLMs](recursos/prompting_finetuning_llm.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/CicadaUY/tokenpalooza/blob/main/recursos/prompting_finetuning_llm.ipynb)) notebook de clasificación de emociones en tweets con grandes modelos de lenguaje, usando prompting y fine-tuning.
 
+- **[Entrenamiento de Transformer desde cero](https://github.com/pln-fing-udelar/cursos/blob/master/EscuelaNLP2026/Tutorial_LLMs_EscuelaNLP.ipynb)** ([abrir en Colab](https://colab.research.google.com/github/pln-fing-udelar/cursos/blob/master/EscuelaNLP2026/Tutorial_LLMs_EscuelaNLP.ipynb) notebook de entrenamiento de un Transformer encoder-decoder desde cero para traducir palabras a jeringoso.
+
 Consultas: <cicada@ei.udelar.edu.uy>
