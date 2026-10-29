@@ -14,4 +14,4 @@ When many AI agents interact, they begin to show behaviors we usually think of a
 
 - Angana Borah and Rada Mihalcea. 2024. Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions. In _Findings of the Association for Computational Linguistics_: EMNLP 2024, pages 9306–9326, Miami, Florida, USA. Association for Computational Linguistics. - [Colab](https://colab.research.google.com/drive/1L0vr0-6YBUi4Qz8IyPJrUXeOPiZAYvxc?usp=sharing)
 
-- Angana Borah, Marwa Houalla, and Rada Mihalcea. 2025. Mind the (Belief) Gap: Group Identity in the World of LLMs. In _Findings of the Association for Computational Linguistics_: ACL 2025, pages 18441–18463, Vienna, Austria. Association for Computational Linguistics. - [Colab]()
+- Angana Borah, Marwa Houalla, and Rada Mihalcea. 2025. Mind the (Belief) Gap: Group Identity in the World of LLMs. In _Findings of the Association for Computational Linguistics_: ACL 2025, pages 18441–18463, Vienna, Austria. Association for Computational Linguistics. - [Colab](https://colab.research.google.com/drive/1qVSysFTtfWhWDe2OotoY0WdzyLJ_2yoi?usp=sharing)
