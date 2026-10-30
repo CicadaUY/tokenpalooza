@@ -1,6 +1,6 @@
 # Modelos de lenguaje como herramientas y modelos neurocognitivos… y viceversa
 - **Expositor/a:** Álvaro Cabana
-- **Cuándo:** lunes 2 de noviembre, 15:45
+- **Cuándo:** lunes 2 de noviembre, 14:30
 
 [← Charlas](README.md) · [← Cronograma](../README.md#cronograma)
 

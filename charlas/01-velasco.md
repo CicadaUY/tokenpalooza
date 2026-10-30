@@ -1,7 +1,7 @@
 # Modelos de difusión en espacios discretos.
 
 - **Expositor:** Mauricio Velasco
-- **Cuándo:** lunes 2 de noviembre, 14:30
+- **Cuándo:** lunes 2 de noviembre, 15:45
 
 [← Charlas](README.md) · [← Cronograma](../README.md#cronograma)
 
