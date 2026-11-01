@@ -1,4 +1,4 @@
-# Tarea 5: Detección de alucinaciones en salidas de LLMs (Mu-SHROOM)
+# Tarea 5a: Detección de alucinaciones en salidas de LLMs (Mu-SHROOM)
 
 [← Volver a tareas](../README.md) · [← Cronograma](../../README.md#cronograma)
 
