@@ -9,7 +9,7 @@
 
 
 ## Materiales
-
+- [Diapositivas](2026_prueba-export.pdf)
 
 ## Lecturas recomendadas
 
