@@ -10,6 +10,8 @@
 
 ## Materiales
 
+[Slides](./iabioseq261102.pdf)
+
 
 ## Lecturas recomendadas
 
