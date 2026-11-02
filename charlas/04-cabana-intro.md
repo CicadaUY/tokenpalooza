@@ -10,7 +10,7 @@ _A completar._
 
 ## Materiales
 
-- Diapositivas: _a completar_
+- [Diapositivas](Tokenpalooza%20charla%201.pdf)
 
 ## Lecturas recomendadas
 
