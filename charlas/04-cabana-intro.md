@@ -14,4 +14,4 @@ _A completar._
 
 ## Lecturas recomendadas
 
-- _A completar._
+- [_Fine-Tuning con asociación libre_](https://escholarship.org/content/qt5457325p/qt5457325p.pdf)
