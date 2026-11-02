@@ -13,3 +13,4 @@
 
 ## Lecturas recomendadas
 
+- https://arxiv.org/abs/2311.03658
