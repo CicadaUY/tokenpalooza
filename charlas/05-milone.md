@@ -10,6 +10,7 @@
 
 ## Materiales
 
+- [Diapos](bllm1001.pdf)
 
 ## Lecturas recomendadas
 
