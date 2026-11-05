@@ -10,6 +10,7 @@
 
 ## Materiales
 
+- [Diapos](modelos_razonamiento.pdf)
 
 ## Lecturas recomendadas
 
